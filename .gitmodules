@@ -1,0 +1,9 @@
+[submodule "to-do-list"]
+	path = to-do-list
+	url = https://github.com/RomanSystems/to-do-list.git
+[submodule "product-catalog"]
+	path = product-catalog
+	url = https://github.com/RomanSystems/product-catalag.git
+[submodule "my-blog"]
+	path = my-blog
+	url = https://github.com/RomanSystems/my-blog.git
