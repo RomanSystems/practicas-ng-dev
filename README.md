@@ -75,6 +75,17 @@ Lista\
 Ver\
 ![2.viewblog.png](miscelanius/2.viewblog.png)
 
+# ESTRUCTURA CARPETAS
+
+to-do-list\
+![struct_task.png](miscelanius/struct_task.png)
+
+product-catalog\
+![st ruct_cat_prod.png](miscelanius/struct_cat_prod.png)
+
+my-blog\
+![struct_posts.png](miscelanius/struct_posts.png)
+
 # ARQUITECTURA LIMPIA
 ```
 src/
